@@ -1,0 +1,30 @@
+{
+  "name": "react-2025-feb-1",
+  "version": "1.0.0",
+  "description": "This is React by Abdul Javith",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://githup.com/Abdul-Javith/React-project.git"
+  },
+  "keywords": [
+    "react",
+    "javith"
+  ],
+  "author": "Abdul Javith",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
